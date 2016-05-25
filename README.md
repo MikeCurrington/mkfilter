@@ -1,20 +1,11 @@
-# mkfilter - a commandline tool for generating IIR and FIR filter co-efficients.
-
-
-Cleaned up to compile cleanly on modern (2016) OSx.
-Source was tested on OSx 10.11 (you will need to install xcode) but should also compile on other Unix variants.
-Uses Clang (rather than gcc).
-
-
-For detailed usage see doc.pdf (converted from doc.ps).
-
-
 #The mkfilter Digital Filter Generation Program
 (mkfilter vsn. 4.5 and friends)
 
 *Cleaned up to compile cleanly on modern (2016) OSx.
 Source was tested on OSx 10.11 (you will need to install xcode) but should also compile on other Unix variants.
 Uses Clang (rather than gcc).*
+
+**For detailed usage see doc.pdf (converted from doc.ps).**
 
 1. Introduction
 
