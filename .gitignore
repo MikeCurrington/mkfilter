@@ -3,6 +3,7 @@
 *.ko
 *.obj
 *.elf
+obj/
 
 # Precompiled Headers
 *.gch
@@ -27,6 +28,12 @@
 *.i*86
 *.x86_64
 *.hex
+
+mkfilter
+mkshape
+mkaverage
+gencode
+genplot
 
 # Debug files
 *.dSYM/
